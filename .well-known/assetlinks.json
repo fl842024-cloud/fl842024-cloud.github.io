@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.occultum.app",
+      "sha256_cert_fingerprints":
+        ["FE:41:7D:71:FC:FA:9E:C2:81:2E:EC:68:C9:C6:8D:14:DE:72:6F:24:DD:4B:60:86:9F:67:A5:50:0D:57:1E:CD"]
+    }
+  }
+]
